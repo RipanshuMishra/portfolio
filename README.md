@@ -4,8 +4,10 @@
 <ol>
   <li>Open your Google Sheet and create a blank sheet</li>
   <li>Rename column names as you given name in the contact form</li>
+  <img width="923" alt="s1" src="https://github.com/RipanshuMishra/portfolio/blob/main/Assets/324242026-8d7ffc80-dbbd-4b0a-bc48-937efc58e4cd.png">
   <li>Go to Extension=>App Scripts </li>
   <li>Copy the below code run the code and wait for succesfull execution</li>
+  
   
       var sheetName = 'Sheet1'
       var scriptProp = PropertiesService.getScriptProperties()
