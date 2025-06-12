@@ -54,17 +54,16 @@
     animation: html 2s;
 }
 
-.skill-bar .bar .sql{
-    width: 68%;
-    animation: figma 3s;
-
-}
-
 .skill-bar .bar .figma{
     width: 60%;
     animation: figma 4s;
 }
 
+.skill-bar .bar .sql{
+    width: 68%;
+    animation: figma 3s;
+
+}
 
 .skill-bar .bar .css{
     width: 80%;
