@@ -69,6 +69,11 @@
     animation: javascript 5s;
 }
 
+.skill-bar .bar .figma{
+    width: 60%;
+    animation: figma 4s;
+}
+
 
 
 /* -------------------- Keyframes --------- */
